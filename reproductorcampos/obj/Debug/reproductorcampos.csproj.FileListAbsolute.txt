@@ -1,0 +1,17 @@
+C:\Users\FERCAMPOS\source\repos\reproductorcampos\reproductorcampos\bin\Debug\reproductorcampos.exe.config
+C:\Users\FERCAMPOS\source\repos\reproductorcampos\reproductorcampos\bin\Debug\reproductorcampos.exe
+C:\Users\FERCAMPOS\source\repos\reproductorcampos\reproductorcampos\bin\Debug\reproductorcampos.pdb
+C:\Users\FERCAMPOS\source\repos\reproductorcampos\reproductorcampos\obj\Debug\reproductorcampos.csprojAssemblyReference.cache
+C:\Users\FERCAMPOS\source\repos\reproductorcampos\reproductorcampos\obj\Debug\reproductorcampos.Reproductor.resources
+C:\Users\FERCAMPOS\source\repos\reproductorcampos\reproductorcampos\obj\Debug\reproductorcampos.Properties.Resources.resources
+C:\Users\FERCAMPOS\source\repos\reproductorcampos\reproductorcampos\obj\Debug\reproductorcampos.csproj.GenerateResource.cache
+C:\Users\FERCAMPOS\source\repos\reproductorcampos\reproductorcampos\obj\Debug\reproductorcampos.csproj.CoreCompileInputs.cache
+C:\Users\FERCAMPOS\source\repos\reproductorcampos\reproductorcampos\obj\Debug\reproductorcampos.exe
+C:\Users\FERCAMPOS\source\repos\reproductorcampos\reproductorcampos\obj\Debug\reproductorcampos.pdb
+C:\Users\FERCAMPOS\source\repos\reproductorcampos\reproductorcampos\bin\Debug\Interop.WMPLib.dll
+C:\Users\FERCAMPOS\source\repos\reproductorcampos\reproductorcampos\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\FERCAMPOS\source\repos\reproductorcampos\reproductorcampos\obj\Debug\Interop.WMPLib.dll
+C:\Users\FERCAMPOS\source\repos\reproductorcampos\reproductorcampos\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\FERCAMPOS\source\repos\reproductorcampos\reproductorcampos\obj\Debug\reproductorcampos.csproj.ResolveComReference.cache
+C:\Users\FERCAMPOS\source\repos\reproductorcampos\reproductorcampos\bin\Debug\MACTrackBarLib.dll
+C:\Users\FERCAMPOS\source\repos\reproductorcampos\reproductorcampos\obj\Debug\reproductorcampos.csproj.CopyComplete
